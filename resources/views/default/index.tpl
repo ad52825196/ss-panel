@@ -4,7 +4,7 @@
         <br><br>
         <h1 class="header center orange-text">{$config["appName"]}</h1>
         <div class="row center">
-            <h5 class="header col s12 light">轻松科学上网   保护个人隐私</h5>
+            <h5 class="header col s12 light">轻松自由上网  保护个人隐私</h5>
             {$homeIndexMsg}
         </div>
         {if $user->isLogin}
@@ -32,10 +32,10 @@
                     http://google.github.io/material-design-icons/#using-the-icons-in-html
                     -->
                     <h2 class="center light-blue-text"><i class="material-icons">&#xE3E7</i></h2>
-                    <h5 class="center">Super Fast</h5>
+                    <h5 class="center">便宜</h5>
 
                     <p class="light">
-                        Bleeding edge techniques using Asynchronous I/O and Event-driven programming.
+                        10元即可购买注册用邀请码，直接赠送 5G 流量，每天签到更可免费获取多达 100M 流量。购买时请先登陆 Paypal 账户，同时注意选择货币单位，并请留下邮箱便于发送邀请码。额外流量 1元 = 1G
                     </p>
                 </div>
             </div>
@@ -46,10 +46,10 @@
                     http://google.github.io/material-design-icons/#using-the-icons-in-html
                     -->
                     <h2 class="center light-blue-text"><i class="material-icons">&#xE7EF</i></h2>
-                    <h5 class="center">Open Source</h5>
+                    <h5 class="center">安全</h5>
 
                     <p class="light">
-                        Totally free and open source. A worldwide community devoted to deliver bug-free code and long-term support.
+                        采用业界领先的通讯加密技术，以多种手段对传输数据进行加密和伪装，抵抗外界侦测和干扰。
                     </p>
                 </div>
             </div>
@@ -60,10 +60,10 @@
                     http://google.github.io/material-design-icons/#using-the-icons-in-html
                     -->
                     <h2 class="center light-blue-text"><i class="material-icons">&#xE8B8</i></h2>
-                    <h5 class="center">Easy to work with</h5>
+                    <h5 class="center">方便</h5>
 
                     <p class="light">
-                        Avaliable on multiple platforms, including PC, MAC, Mobile (Android and iOS) and Routers (OpenWRT).
+                        在各种设备上都能使用该服务，包括：PC, MAC, 移动设备 (Android and iOS) 和 路由器 (OpenWRT)，一个账号最多可连接5台设备。
                     </p>
                 </div>
             </div>

@@ -34,7 +34,7 @@
                     </div>
                     <!-- /.box-header -->
                     <div class="box-body">
-                        <p>当前您可以生成<code>{$user->invite_num}</code>个邀请码。 </p>
+                        <p>当前您可以生成<code>{$user->invite_num}</code>个邀请码。</p>
                         {if $user->invite_num }
                             <button id="invite" class="btn btn-sm btn-info">生成我的邀请码</button>
                         {/if}
@@ -82,7 +82,7 @@
 
                     <p>用户注册48小时后，才可以生成邀请码。</p>
 
-                    <p>邀请码暂时无法购买，请珍惜。</p>
+                    <p>邀请码暂时不开放。</p>
 
                     <p>公共页面不定期发放邀请码，如果用完邀请码可以关注公共邀请。</p>
                 </div>
