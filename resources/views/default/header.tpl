@@ -17,7 +17,7 @@
         <ul class="right hide-on-med-and-down">
             <li><a href="/">首页</a></li>
             <li><a href="https://github.com/breakwa11/shadowsocks-csharp/releases">客户端下载</a></li>
-            <li><a href="https://www.paypal.me/chenzhen/10cny">购买邀请码/流量</a></li>
+            <li><a href="/pay">购买邀请码/流量</a></li>
             {if $user->isLogin}
                 <li><a href="/user">用户中心</a></li>
                 <li><a href="/user/logout">退出</a></li>
@@ -31,7 +31,7 @@
         <ul id="nav-mobile" class="side-nav">
             <li><a href="/">首页</a></li>
             <li><a href="https://github.com/glzjin/shadowsocksr-android/releases">客户端下载</a></li>
-            <li><a href="https://www.paypal.me/chenzhen/10cny">购买</a></li>
+            <li><a href="pay">购买</a></li>
             {if $user->isLogin}
                 <li><a href="/user">用户中心</a></li>
                 <li><a href="/user/logout">退出</a></li>
