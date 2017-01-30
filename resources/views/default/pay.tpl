@@ -9,6 +9,10 @@
     </div>
     <p>支付时请留下邮箱便于发送邀请码，本站目前人工发货可能需要您等待一段时间，支付前或支付后都欢迎来联系一下站长：<a href="http://steamcommunity.com/id/zhen-chen/">Steam</a> <a href="http://weibo.com/chenzhen42">新浪微博</a></p>
 
+    <h3>微信钱包</h3>
+    <p>通过 微信钱包 支付 人民币，10元 即可购买激活码，流量 1元 = 1G，打开微信扫码即可：</p>
+    <p><img src="/assets/public/img/wechat.png" alt="wechat"/></p>
+
     <h3>支付宝</h3>
     <p>通过 支付宝 支付 人民币，10元 即可购买激活码，流量 1元 = 1G，打开手机支付宝扫码即可：</p>
     <p><img src="/assets/public/img/alipay.png" alt="alipay"/></p>
