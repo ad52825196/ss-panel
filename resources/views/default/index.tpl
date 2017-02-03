@@ -7,16 +7,15 @@
             <h5 class="header col s12 light">轻松自由上网  保护个人隐私</h5>
             {$homeIndexMsg}
         </div>
-        {if $user->isLogin}
-            <div class="row center">
-                <a href="/user" id="download-button" class="btn-large waves-effect waves-light orange">进入用户中心</a>
-            </div>
-        {else}
         <div class="row center">
-            <a href="/auth/register" id="download-button" class="btn-large waves-effect waves-light orange">立即注册</a>
-        </div>
+        {if $user->isLogin}
+            <p><a href="/user" id="download-button" class="btn-large waves-effect waves-light orange">进入用户中心</a></p>
+        {else}
+            <p><a href="/auth/login" id="download-button" class="btn-large waves-effect waves-light orange">登陆</a></p>
+            <p><a href="/pay" id="download-button" class="btn-large waves-effect waves-light orange">立即购买</a></p>
         {/if}
-        <br><br>
+        </div>
+        <br /><br />
     </div>
 </div>
 
