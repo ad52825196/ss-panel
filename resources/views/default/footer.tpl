@@ -23,6 +23,7 @@
                 <h5 class="white-text">页面</h5>
                 <ul>
                     <li><a class="white-text" href="/pay">购买邀请码/流量</a></li>
+                    <li><a class="white-text" href="/tutorial">教程</a></li>
                     <li><a class="white-text" href="/code">邀请码</a></li>
                     <li><a class="white-text" href="/tos">服务条款</a></li>
                 </ul>

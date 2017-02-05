@@ -34,6 +34,21 @@ class HomeController extends BaseController
         return $this->view()->assign('codes', $codes)->assign('msg', $msg)->display('code.tpl');
     }
 
+    public function tos()
+    {
+        return $this->view()->display('tos.tpl');
+    }
+
+    public function pay()
+    {
+        return $this->view()->display('pay.tpl');
+    }
+
+    public function tutorial()
+    {
+        return $this->view()->display('tutorial.tpl');
+    }
+
     public function debug($request, $response, $args)
     {
         $server = [
@@ -48,16 +63,6 @@ class HomeController extends BaseController
         ];
         Logger::debug(json_encode($res));
         return $this->echoJson($response, $res);
-    }
-
-    public function tos()
-    {
-        return $this->view()->display('tos.tpl');
-    }
-
-    public function pay()
-    {
-        return $this->view()->display('pay.tpl');
     }
 
     public function postDebug(Request $request,Response $response, $args)
