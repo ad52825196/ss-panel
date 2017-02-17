@@ -3,6 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <meta name="keywords" content="shadowsocks,shadowsocksr,ss,ssr,影梭,彩虹影梭,科学上网,魔法上网">
     <title>{$config["appName"]}</title>
     <!-- CSS fonts.googleapis.com -->
     <link href="//fonts.lug.ustc.edu.cn/icon?family=Material+Icons" rel="stylesheet">
