@@ -32,13 +32,14 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
+            <a class="orange-text text-lighten-3" href="//zhen-chen.xyz">彩虹工作室</a>
             Copyright &copy;
             <script>
             var s = 2016, myDate = new Date(), t = myDate.getFullYear();
             if (t > s) { document.write(s, " - ", t); } else { document.write(s); }
             </script>
             {$config["appName"]}  Powered by <a class="orange-text text-lighten-3" href="https://github.com/orvice/ss-panel">ss-panel</a> {$config["version"]}
-            Theme by <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+            Theme by <a class="orange-text text-lighten-3" href="//materializecss.com">Materialize</a>
         </div>
         <div style="display:none;">
             {$analyticsCode}
