@@ -30,7 +30,7 @@
                     <!-- To be compatible with some old browsers(especially mobile browsers), use &#xE3E7 instead of flash_on. For more information visit the link below.
                     http://google.github.io/material-design-icons/#using-the-icons-in-html
                     -->
-                    <h2 class="center light-blue-text"><i class="material-icons">&#xE3E7</i></h2>
+                    <h2 class="center light-blue-text"><i class="material-icons">&#xE3E7;</i></h2>
                     <h5 class="center">便宜</h5>
 
                     <p class="light">
@@ -44,7 +44,7 @@
                     <!-- To be compatible with some old browsers(especially mobile browsers), use &#xE7EF instead of group. For more information visit the link below.
                     http://google.github.io/material-design-icons/#using-the-icons-in-html
                     -->
-                    <h2 class="center light-blue-text"><i class="material-icons">&#xE7EF</i></h2>
+                    <h2 class="center light-blue-text"><i class="material-icons">&#xE7EF;</i></h2>
                     <h5 class="center">安全</h5>
 
                     <p class="light">
@@ -58,7 +58,7 @@
                     <!-- To be compatible with some old browsers(especially mobile browsers), use &#xE8B8 instead of settings. For more information visit the link below.
                     http://google.github.io/material-design-icons/#using-the-icons-in-html
                     -->
-                    <h2 class="center light-blue-text"><i class="material-icons">&#xE8B8</i></h2>
+                    <h2 class="center light-blue-text"><i class="material-icons">&#xE8B8;</i></h2>
                     <h5 class="center">方便</h5>
 
                     <p class="light">
