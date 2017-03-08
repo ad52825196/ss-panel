@@ -6,7 +6,7 @@
     <meta name="keywords" content="shadowsocks,shadowsocksr,ss,ssr,影梭,彩虹影梭,科学上网,魔法上网">
     <title>{$config["appName"]}</title>
     <!-- CSS fonts.googleapis.com -->
-    <link href="/assets/materialize/css/font.css" rel="stylesheet">
+    <link href="/assets/public/css/font.css" rel="stylesheet">
     <link href="/assets/materialize/css/materialize.min.css" rel="stylesheet" media="screen,projection"/>
     <link href="/assets/materialize/css/style.css" rel="stylesheet" media="screen,projection"/>
     <link href="/assets/public/css/main.css" rel="stylesheet"/>

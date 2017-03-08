@@ -3,10 +3,11 @@
 <div class="section no-pad-bot" id="index-banner">
 <div class="container">
     <div class="page-header">
-        <h1>
-            使用教程
-        </h1>
+        <a href="#ss"><h1>影梭使用教程</h1></a>
+        <a href="#qq"><h1>QQ邮箱用户取回被拦截邮件</h1></a>
     </div>
+
+    <h2 id="ss">影梭使用教程</h2>
     <p>您需要在本站<a href="/pay">购买邀请码</a>后完成账号<a href="/auth/register">注册</a>，才能开始使用彩虹影梭服务。</p>
     <p>请先下载 SSR <a href="https://github.com/breakwa11/shadowsocks-csharp/releases">客户端</a>，解压缩后无需安装，直接运行即可。您可以通过以下任意一种方法来添加服务器节点，请注意<span class="yellow">不要泄露您独有的 ss 链接地址，二维码，服务器地址及端口号</span>，以免他人盗用影响您的账号使用。</p>
     <h3>（三选一）通过 ss 链接添加节点</h3>
@@ -23,6 +24,13 @@
     <img src="https://cloud.githubusercontent.com/assets/8436963/22097160/930b8240-de5a-11e6-9819-7cbccbd1be34.png" />
     <h3>设置开机自动启动</h3>
     <p>右键点击位于任务栏的小飞机 SSR 客户端图标，选择选项设置，勾选右上角的开机启动，这样 SSR 客户端将会开机自动启动并连接上服务器。</p>
+
+    <h2 id="qq">QQ邮箱用户取回被拦截邮件</h2>
+    <p>腾讯邮箱的反垃圾系统有特殊限制，只允许我的邮件服务器每小时向所有 @qq.com 邮箱发送 1 封邮件，超出该限制的邮件投递甚至不会进入用户垃圾箱。我无法解决此问题，若您在尝试重置密码或使用其他需要接收邮件进行确认操作的服务时，发现长时间没有收到邮件，您可以通过以下步骤取回被拦截的邮件。</p>
+    <h3>登陆QQ邮箱，点击首页下方的自助查询</h3>
+    <img src="/assets/public/img/mail1.png" />
+    <h3>点击上方的“收信查询”选项卡，对被拦截的邮件进行“添加白名单”和“取回”操作</h3>
+    <img src="/assets/public/img/mail2.png" />
 </div>
 </div>
 {include file='footer.tpl'}
