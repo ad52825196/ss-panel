@@ -18,7 +18,7 @@
     <p><img src="/assets/public/img/alipay.png" alt="alipay"/></p>
 
     <h3>Paypal</h3>
-    <p>通过 Paypal 支付 美元，3美元 即可购买邀请码附赠 5G 流量，流量 1美元 = 3G：<a href="https://www.paypal.me/chenzhen/2usd">购买</a></p>
+    <p>通过 Paypal 支付 美元，2.5美元 即可购买邀请码附赠 5G 流量，流量 1美元 = 3G：<a href="https://www.paypal.me/chenzhen/2.5usd">购买</a></p>
     <h4>感谢您的惠顾，祝您有美好的一天！（鞠躬）</h4>
 
     <p>Last updated at: 15/03/2017</p>
