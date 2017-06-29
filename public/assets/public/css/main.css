@@ -12,3 +12,13 @@ footer {
 img {
     max-width: 100%;
 }
+
+#pay table {
+    border-collapse: collapse;
+}
+
+#pay table,
+#pay th,
+#pay td {
+    border: 1px solid black;
+}
