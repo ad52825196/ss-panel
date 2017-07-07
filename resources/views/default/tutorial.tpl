@@ -9,7 +9,7 @@
 
     <h2 id="ss">影梭使用教程</h2>
     <p>您需要在本站<a href="/pay">购买邀请码</a>后完成账号<a href="/auth/register">注册</a>，才能开始使用彩虹影梭服务。</p>
-    <p>请先下载 SSR <a href="https://github.com/breakwa11/shadowsocks-csharp/releases">客户端</a>，解压缩后无需安装，直接运行即可。您可以通过以下任意一种方法来添加服务器节点，请注意<mark>不要泄露您独有的 ss 链接地址，二维码，服务器地址及端口号</mark>，以免他人盗用影响您的账号使用。</p>
+    <p>请先下载 SSR <a href="https://github.com/breakwa11/shadowsocks-csharp/releases">客户端</a> （<a href="https://mega.nz/#!uZtUlKBa!-PF4d4kwAjRQtAQwxb0PpZWXmiQ_BcOApQkoaWPUo9U">网盘</a>），解压缩后无需安装，直接运行即可。您可以通过以下任意一种方法来添加服务器节点，请注意<mark>不要泄露您独有的 ss 链接地址，二维码，服务器地址及端口号</mark>，以免他人盗用影响您的账号使用。</p>
     <h3>（三选一）通过 ss 链接添加节点</h3>
     <p>登陆彩虹影梭用户中心，进入左侧菜单节点列表，点击进入您想要添加的服务器，将左侧的配置地址完整复制。接着右键点击位于任务栏的小飞机 SSR 客户端图标，选择剪贴板批量导入 ssr:// 地址，此时服务器基本信息已经导入完毕。</p>
     <h3>（三选一）通过二维码添加节点</h3>
