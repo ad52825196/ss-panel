@@ -17,16 +17,16 @@
             <td>充值流量（<mark>永久，不过期</mark>）</td><td>2元 = 1G<br>25元 = 15G<br>50元 = 40G<br>1美元 = 3G<br>10美元 = 50G</td><td><mark>您的邮箱或账号</mark>，请注明<mark>充值流量</mark>，将自动使用最优策略添加流量</td>
         </tr>
         <tr>
-            <td>包月</td><td>30元/5美元 100G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>包月</mark></td>
+            <td>包月</td><td>20元/4美元 15G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>包月</mark></td>
         </tr>
         <tr>
-            <td>包季度（三个月）</td><td>60元/10美元 200G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>季度</mark></td>
+            <td>包季度（三个月）</td><td>50元/8美元 40G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>季度</mark></td>
         </tr>
         <tr>
-            <td>包半年</td><td>110元/20美元 500G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>半年</mark></td>
+            <td>包半年</td><td>80元/14美元 80G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>半年</mark></td>
         </tr>
         <tr>
-            <td>包年</td><td>200元/35美元 2000G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>一年</mark></td>
+            <td>包年</td><td>120元/20美元 200G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>一年</mark></td>
         </tr>
     </table>
     <p>获得邀请码后，您可以开始<a href="/auth/register" target="_blank">注册</a>，祝您使用愉快。</p>
