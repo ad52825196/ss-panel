@@ -20,10 +20,10 @@
             <td>包月</td><td>20元/4美元 15G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>包月</mark></td>
         </tr>
         <tr>
-            <td>包季度（三个月）</td><td>50元/8美元 40G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>季度</mark></td>
+            <td>包季度（三个月）</td><td>40元/8美元 40G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>季度</mark></td>
         </tr>
         <tr>
-            <td>包半年</td><td>80元/14美元 80G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>半年</mark></td>
+            <td>包半年</td><td>80元/14美元 100G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>半年</mark></td>
         </tr>
         <tr>
             <td>包年</td><td>120元/20美元 200G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>一年</mark></td>
