@@ -5,7 +5,7 @@
     <div class="page-header">
         <h1>产品价格</h1>
     </div>
-    <p>Last updated at: 30/06/2017</p>
+    <p>Last updated at: 15/07/2017</p>
     <table>
         <tr>
             <td>产品类型</td><td>价格</td><td>付款留言内容</td>
@@ -17,16 +17,16 @@
             <td>充值流量（<mark>永久，不过期</mark>）</td><td>2元 = 1G<br>25元 = 15G<br>50元 = 40G<br>1美元 = 3G<br>10美元 = 50G</td><td><mark>您的邮箱或账号</mark>，请注明<mark>充值流量</mark>，将自动使用最优策略添加流量</td>
         </tr>
         <tr>
-            <td>包月</td><td>20元/4美元 15G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>包月</mark></td>
+            <td>包月</td><td>15元/2.5美元 15G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>包月</mark></td>
         </tr>
         <tr>
-            <td>包季度（三个月）</td><td>40元/8美元 40G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>季度</mark></td>
+            <td>包季度（三个月）</td><td>40元/7美元 80G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>季度</mark></td>
         </tr>
         <tr>
-            <td>包半年</td><td>80元/14美元 100G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>半年</mark></td>
+            <td>包半年</td><td>70元/12美元 200G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>半年</mark></td>
         </tr>
         <tr>
-            <td>包年</td><td>120元/20美元 200G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>一年</mark></td>
+            <td>包年</td><td>120元/20美元 1000G套餐流量</td><td><mark>您的邮箱或账号</mark>，请注明<mark>一年</mark></td>
         </tr>
     </table>
     <p>获得邀请码后，您可以开始<a href="/auth/register" target="_blank">注册</a>，祝您使用愉快。</p>
