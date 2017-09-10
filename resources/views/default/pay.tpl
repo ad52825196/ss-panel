@@ -44,7 +44,7 @@
         <h1>本站支持以下支付方式</h1>
     </div>
     <p>本站目前人工发货，可能需要您等待一段时间，由于新西兰时差原因，您在北京时间 17:00 以后的付款一般会在第二天进行处理，感谢您的理解！</p>
-    <p>支付前或支付后都欢迎来联系一下站长：<a href="http://steamcommunity.com/id/zhen-chen/">Steam</a> <a href="http://weibo.com/chenzhen42">新浪微博</a></p>
+    <p>支付前或支付后都欢迎来联系一下站长，通过轻巧的 Telegram （<a href="https://telegram.org/">工具介绍</a>）发送消息应该是最快的联系方式：<a href="https://t.me/zhen_chen">Telegram</a>, <a href="https://steamcommunity.com/id/zhen-chen/">Steam</a>, <a href="http://weibo.com/chenzhen42">新浪微博</a></p>
 
     <h3>微信钱包</h3>
     <p><img src="/assets/public/img/wechat.png" alt="wechat"/></p>
